@@ -1,0 +1,14 @@
+{
+  "name": "external-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meraj",
+  "license": "ISC",
+  "dependencies": {
+    "food-random-module": "^0.0.1"
+  }
+}
